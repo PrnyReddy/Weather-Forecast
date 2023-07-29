@@ -1,4 +1,4 @@
-# Weather-Forecast
+# Weather-HW
 
 This Weather App is a simple web application that allows users to get the weather information of any city. It fetches real-time weather data and displays it on the user interface. The app also dynamically changes the background color and weather icon based on the weather conditions.
 
